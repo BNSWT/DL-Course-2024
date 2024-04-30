@@ -1,0 +1,738 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.autograd",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.autograd",
+        "description": "torch.autograd",
+        "detail": "torch.autograd",
+        "documentation": {}
+    },
+    {
+        "label": "split",
+        "importPath": "torch.functional",
+        "description": "torch.functional",
+        "isExtraImport": true,
+        "detail": "torch.functional",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "scipy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy",
+        "description": "scipy",
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "manifolds.hyperboloid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "manifolds.hyperboloid",
+        "description": "manifolds.hyperboloid",
+        "detail": "manifolds.hyperboloid",
+        "documentation": {}
+    },
+    {
+        "label": "manifolds.poincare",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "manifolds.poincare",
+        "description": "manifolds.poincare",
+        "detail": "manifolds.poincare",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "L",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "scanpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scanpy",
+        "description": "scanpy",
+        "detail": "scanpy",
+        "documentation": {}
+    },
+    {
+        "label": "anndata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "anndata",
+        "description": "anndata",
+        "detail": "anndata",
+        "documentation": {}
+    },
+    {
+        "label": "DigitsDataset",
+        "importPath": "dataloader.data_source",
+        "description": "dataloader.data_source",
+        "isExtraImport": true,
+        "detail": "dataloader.data_source",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Parameter",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "mmread",
+        "importPath": "scipy.io",
+        "description": "scipy.io",
+        "isExtraImport": true,
+        "detail": "scipy.io",
+        "documentation": {}
+    },
+    {
+        "label": "enumerate",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "pairwise_distances",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "NNDescent",
+        "importPath": "pynndescent",
+        "description": "pynndescent",
+        "isExtraImport": true,
+        "detail": "pynndescent",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "ToEuclidean",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToSphere",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToPoincare",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToLorentz",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToEuclidean",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToPoincare",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToLorentz",
+        "importPath": "manifolds.hyperbolic_project",
+        "description": "manifolds.hyperbolic_project",
+        "isExtraImport": true,
+        "detail": "manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "Manifold",
+        "importPath": "manifolds.base",
+        "description": "manifolds.base",
+        "isExtraImport": true,
+        "detail": "manifolds.base",
+        "documentation": {}
+    },
+    {
+        "label": "Manifold",
+        "importPath": "manifolds.base",
+        "description": "manifolds.base",
+        "isExtraImport": true,
+        "detail": "manifolds.base",
+        "documentation": {}
+    },
+    {
+        "label": "Manifold",
+        "importPath": "manifolds.base",
+        "description": "manifolds.base",
+        "isExtraImport": true,
+        "detail": "manifolds.base",
+        "documentation": {}
+    },
+    {
+        "label": "manifolds",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "manifolds",
+        "description": "manifolds",
+        "detail": "manifolds",
+        "documentation": {}
+    },
+    {
+        "label": "arcosh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cosh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "sinh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "artanh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tanh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "arcosh",
+        "importPath": "manifolds.math_utils",
+        "description": "manifolds.math_utils",
+        "isExtraImport": true,
+        "detail": "manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "pytorch_lightning",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytorch_lightning",
+        "description": "pytorch_lightning",
+        "detail": "pytorch_lightning",
+        "documentation": {}
+    },
+    {
+        "label": "LightningModule",
+        "importPath": "pytorch_lightning",
+        "description": "pytorch_lightning",
+        "isExtraImport": true,
+        "detail": "pytorch_lightning",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "pytorch_lightning",
+        "description": "pytorch_lightning",
+        "isExtraImport": true,
+        "detail": "pytorch_lightning",
+        "documentation": {}
+    },
+    {
+        "label": "EarlyStopping",
+        "importPath": "pytorch_lightning.callbacks.early_stopping",
+        "description": "pytorch_lightning.callbacks.early_stopping",
+        "isExtraImport": true,
+        "detail": "pytorch_lightning.callbacks.early_stopping",
+        "documentation": {}
+    },
+    {
+        "label": "StepLR",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "register_projection",
+        "importPath": "matplotlib.projections",
+        "description": "matplotlib.projections",
+        "isExtraImport": true,
+        "detail": "matplotlib.projections",
+        "documentation": {}
+    },
+    {
+        "label": "Loss.dmt_loss_aug",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Loss.dmt_loss_aug",
+        "description": "Loss.dmt_loss_aug",
+        "detail": "Loss.dmt_loss_aug",
+        "documentation": {}
+    },
+    {
+        "label": "nuscheduler",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nuscheduler",
+        "description": "nuscheduler",
+        "detail": "nuscheduler",
+        "documentation": {}
+    },
+    {
+        "label": "data_base",
+        "importPath": "dataloader",
+        "description": "dataloader",
+        "isExtraImport": true,
+        "detail": "dataloader",
+        "documentation": {}
+    },
+    {
+        "label": "MyLoss",
+        "kind": 6,
+        "importPath": "exercises.hw11.Loss.dmt_loss_aug",
+        "description": "exercises.hw11.Loss.dmt_loss_aug",
+        "peekOfCode": "class MyLoss(nn.Module):\n    def __init__(\n        self,\n        v_input,\n        SimilarityFunc=UMAPSimilarity,\n        metric_s = \"euclidean\",\n        metric_e = \"euclidean\",\n        c_input = 1,\n        c_latent = 1,\n        pow=2,",
+        "detail": "exercises.hw11.Loss.dmt_loss_aug",
+        "documentation": {}
+    },
+    {
+        "label": "UMAPSimilarity",
+        "kind": 2,
+        "importPath": "exercises.hw11.Loss.dmt_loss_aug",
+        "description": "exercises.hw11.Loss.dmt_loss_aug",
+        "peekOfCode": "def UMAPSimilarity(dist, rho, sigma_array, gamma, v=100, h=1, pow=2):\n    if torch.is_tensor(rho):\n        dist_rho = (dist - rho) / sigma_array\n        dist_rho[dist_rho < 0] = 0\n    else:\n        dist_rho = dist\n    dist_rho[dist_rho < 0] = 0\n    if v > 500:\n        Pij = torch.pow(\n            input=torch.exp(-1*dist_rho),",
+        "detail": "exercises.hw11.Loss.dmt_loss_aug",
+        "documentation": {}
+    },
+    {
+        "label": "SingleCellDataset",
+        "kind": 6,
+        "importPath": "exercises.hw11.dataloader.data_base",
+        "description": "exercises.hw11.dataloader.data_base",
+        "peekOfCode": "class SingleCellDataset(DigitsDataset):\n    def __init__(self, data_name=\"SingleCell\", batch_class=1, raw_data:np.ndarray=None, raw_label:np.ndarray=None, label_batch:np.ndarray=None):\n        self.batch_class = batch_class\n        data = raw_data.astype(np.float32)\n        label = raw_label.astype(np.object_)\n        label_batch = label_batch\n        # mtx = './data/cd14_monocyte_erythrocyte.mtx'\n        # data = read_mtx(mtx)\n        # data = data.transpose().todense()\n        # label = pd.read_csv('data/cd14_monocyte_erythrocyte_celltype.tsv', sep='\\t', header=None).values",
+        "detail": "exercises.hw11.dataloader.data_base",
+        "documentation": {}
+    },
+    {
+        "label": "read_mtx",
+        "kind": 2,
+        "importPath": "exercises.hw11.dataloader.data_base",
+        "description": "exercises.hw11.dataloader.data_base",
+        "peekOfCode": "def read_mtx(filename, dtype='int32'):\n    x = mmread(filename).astype(dtype)\n    return x\ndef multi_one_hot(index_tensor, depth_list):\n    one_hot_tensor = F.one_hot(index_tensor[:,0], num_classes=depth_list[0])\n    for col in range(1, len(depth_list)):\n        next_one_hot = F.one_hot(index_tensor[:,col], num_classes=depth_list[col])\n        one_hot_tensor = torch.cat([one_hot_tensor, next_one_hot], 1)\n    return one_hot_tensor\nclass SingleCellDataset(DigitsDataset):",
+        "detail": "exercises.hw11.dataloader.data_base",
+        "documentation": {}
+    },
+    {
+        "label": "multi_one_hot",
+        "kind": 2,
+        "importPath": "exercises.hw11.dataloader.data_base",
+        "description": "exercises.hw11.dataloader.data_base",
+        "peekOfCode": "def multi_one_hot(index_tensor, depth_list):\n    one_hot_tensor = F.one_hot(index_tensor[:,0], num_classes=depth_list[0])\n    for col in range(1, len(depth_list)):\n        next_one_hot = F.one_hot(index_tensor[:,col], num_classes=depth_list[col])\n        one_hot_tensor = torch.cat([one_hot_tensor, next_one_hot], 1)\n    return one_hot_tensor\nclass SingleCellDataset(DigitsDataset):\n    def __init__(self, data_name=\"SingleCell\", batch_class=1, raw_data:np.ndarray=None, raw_label:np.ndarray=None, label_batch:np.ndarray=None):\n        self.batch_class = batch_class\n        data = raw_data.astype(np.float32)",
+        "detail": "exercises.hw11.dataloader.data_base",
+        "documentation": {}
+    },
+    {
+        "label": "DigitsDataset",
+        "kind": 6,
+        "importPath": "exercises.hw11.dataloader.data_source",
+        "description": "exercises.hw11.dataloader.data_source",
+        "peekOfCode": "class DigitsDataset(torch.utils.data.Dataset):\n    def __init__(self, **kwargs):\n        self.args = kwargs\n    def _Pretreatment(self, data, metric_s='euclidean', K=5):\n        self.rie_pro_input = ToEuclidean()\n        rho, sigma = self._initKNN(self.rie_pro_input(data), metric_s=metric_s, K=K)\n        self.sigma = sigma\n        self.rho = rho\n    def _initKNN(self, X, metric_s='euclidean', K=5):\n        print('use kNN method to find the sigma')",
+        "detail": "exercises.hw11.dataloader.data_source",
+        "documentation": {}
+    },
+    {
+        "label": "Manifold",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.base",
+        "description": "exercises.hw11.manifolds.base",
+        "peekOfCode": "class Manifold(object):\n    \"\"\"\n    Abstract class to define operations on a manifold.\n    \"\"\"\n    def __init__(self):\n        super().__init__()\n        self.eps = 10e-8\n    def sqdist(self, p1, p2, c):\n        \"\"\"Squared distance between pairs of points.\"\"\"\n        raise NotImplementedError",
+        "detail": "exercises.hw11.manifolds.base",
+        "documentation": {}
+    },
+    {
+        "label": "ManifoldParameter",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.base",
+        "description": "exercises.hw11.manifolds.base",
+        "peekOfCode": "class ManifoldParameter(Parameter):\n    \"\"\"\n    Subclass of torch.nn.Parameter for Riemannian optimization.\n    \"\"\"\n    def __new__(cls, data, requires_grad, manifold, c):\n        return Parameter.__new__(cls, data, requires_grad)\n    def __init__(self, data, requires_grad, manifold, c):\n        self.c = c\n        self.manifold = manifold\n    def __repr__(self):",
+        "detail": "exercises.hw11.manifolds.base",
+        "documentation": {}
+    },
+    {
+        "label": "Euclidean",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.euclidean",
+        "description": "exercises.hw11.manifolds.euclidean",
+        "peekOfCode": "class Euclidean(Manifold):\n    \"\"\"\n    Euclidean Manifold class.\n    \"\"\"\n    def __init__(self):\n        super(Euclidean, self).__init__()\n        self.name = 'Euclidean'\n    def normalize(self, p):\n        dim = p.size(-1)\n        p.view(-1, dim).renorm_(2, 0, 1.)",
+        "detail": "exercises.hw11.manifolds.euclidean",
+        "documentation": {}
+    },
+    {
+        "label": "ToEuclidean",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class ToEuclidean(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Euclidean space\n    \"\"\"\n    def __init__(self,):\n        super(ToEuclidean, self).__init__()\n    def forward(self, x):\n        return x\nclass ToSphere(nn.Module):\n    \"\"\"",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToSphere",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class ToSphere(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Poincare space\n    \"\"\"\n    def __init__(self,):\n        super(ToSphere, self).__init__()\n    def forward(self, x):\n        x = x - x.mean(dim=0)\n        z = x / x.norm(dim=1)[:, None]\n        # latent = F.normalize(latent, dim=0)",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToSphere_tao",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class ToSphere_tao(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Poincare space\n    \"\"\"\n    def __init__(self, manifold):\n        super(ToSphere_tao, self).__init__()\n        self.manifold = manifold # 'Sphere'\n        self.manifold = getattr(manifolds, self.manifold)()\n    def forward(self, x):\n        z = self.manifold.exp_map(x)",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToPoincare",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class ToPoincare(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Poincare space\n    \"\"\"\n    def __init__(self, c, manifold):\n        super(ToPoincare, self).__init__()\n        self.c = c\n        self.manifold = manifold # 'PoincareBall'\n        self.manifold = getattr(manifolds, self.manifold)()\n    def forward(self, x):",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "FromPoincare",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class FromPoincare(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Poincare space\n    \"\"\"\n    def __init__(self, c, manifold):\n        super(FromPoincare, self).__init__()\n        self.c = c\n        self.manifold = manifold # 'PoincareBall'\n        self.manifold = getattr(manifolds, self.manifold)()\n    def forward(self, x):",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "ToLorentz",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperbolic_project",
+        "description": "exercises.hw11.manifolds.hyperbolic_project",
+        "peekOfCode": "class ToLorentz(nn.Module):\n    \"\"\"\n    Module which maps points in n-dim Euclidean space to n-dim Lorentz space\n    \"\"\"\n    def __init__(self, c, manifold):\n        super(ToLorentz, self).__init__()\n        self.c = c\n        self.manifold = manifold # 'Hyperboloid'\n        self.manifold = getattr(manifolds, self.manifold)()\n    def forward(self, x):",
+        "detail": "exercises.hw11.manifolds.hyperbolic_project",
+        "documentation": {}
+    },
+    {
+        "label": "Hyperboloid",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.hyperboloid",
+        "description": "exercises.hw11.manifolds.hyperboloid",
+        "peekOfCode": "class Hyperboloid(Manifold):\n    \"\"\"\n    Hyperboloid manifold class.\n    We use the following convention: -x0^2 + x1^2 + ... + xd^2 = -K\n    c = 1 / K is the hyperbolic curvature. \n    \"\"\"\n    def __init__(self):\n        super(Hyperboloid, self).__init__()\n        self.name = 'Hyperboloid'\n        self.eps = {torch.float32: 1e-7, torch.float64: 1e-15}",
+        "detail": "exercises.hw11.manifolds.hyperboloid",
+        "documentation": {}
+    },
+    {
+        "label": "RiemannianGradient",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "class RiemannianGradient(torch.autograd.Function):\n    '''\n        self.riemannian = pmath.RiemannianGradient\n        self.riemannian.c = c\n        if riemannian:\n            self.grad_fix = lambda x: self.riemannian.apply(x)\n        else:\n            self.grad_fix = lambda x: x\n        def forward(self, x):\n        return self.grad_fix(pmath.project(pmath.expmap0(x, c=self.c), c=self.c))",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Artanh",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "class Artanh(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x):\n        x = x.clamp(-1 + 1e-15, 1 - 1e-15)\n        ctx.save_for_backward(x)\n        z = x.double()\n        return (torch.log_(1 + z).sub_(torch.log_(1 - z))).mul_(0.5).to(x.dtype)\n    @staticmethod\n    def backward(ctx, grad_output):\n        input, = ctx.saved_tensors",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Arsinh",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "class Arsinh(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x):\n        ctx.save_for_backward(x)\n        z = x.double()\n        return (z + torch.sqrt_(1 + z.pow(2))).clamp_min_(1e-15).log_().to(x.dtype)\n    @staticmethod\n    def backward(ctx, grad_output):\n        input, = ctx.saved_tensors\n        return grad_output / (1 + input ** 2) ** 0.5",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Arcosh",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "class Arcosh(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x):\n        x = x.clamp(min=1.0 + 1e-15)\n        ctx.save_for_backward(x)\n        z = x.double()\n        return (z + torch.sqrt_(z.pow(2) - 1)).clamp_min_(1e-15).log_().to(x.dtype)\n    @staticmethod\n    def backward(ctx, grad_output):\n        input, = ctx.saved_tensors",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "cosh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def cosh(x, clamp=15):\n    return x.clamp(-clamp, clamp).cosh()\ndef sinh(x, clamp=15):\n    return x.clamp(-clamp, clamp).sinh()\ndef tanh(x, clamp=15):\n    return x.clamp(-clamp, clamp).tanh()\ndef arcosh(x):\n    return Arcosh.apply(x)\ndef arsinh(x):\n    return Arsinh.apply(x)",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "sinh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def sinh(x, clamp=15):\n    return x.clamp(-clamp, clamp).sinh()\ndef tanh(x, clamp=15):\n    return x.clamp(-clamp, clamp).tanh()\ndef arcosh(x):\n    return Arcosh.apply(x)\ndef arsinh(x):\n    return Arsinh.apply(x)\ndef artanh(x):\n    return Artanh.apply(x)",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tanh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def tanh(x, clamp=15):\n    return x.clamp(-clamp, clamp).tanh()\ndef arcosh(x):\n    return Arcosh.apply(x)\ndef arsinh(x):\n    return Arsinh.apply(x)\ndef artanh(x):\n    return Artanh.apply(x)\n#### RiemannianGradient optimization\nclass RiemannianGradient(torch.autograd.Function):",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "arcosh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def arcosh(x):\n    return Arcosh.apply(x)\ndef arsinh(x):\n    return Arsinh.apply(x)\ndef artanh(x):\n    return Artanh.apply(x)\n#### RiemannianGradient optimization\nclass RiemannianGradient(torch.autograd.Function):\n    '''\n        self.riemannian = pmath.RiemannianGradient",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "arsinh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def arsinh(x):\n    return Arsinh.apply(x)\ndef artanh(x):\n    return Artanh.apply(x)\n#### RiemannianGradient optimization\nclass RiemannianGradient(torch.autograd.Function):\n    '''\n        self.riemannian = pmath.RiemannianGradient\n        self.riemannian.c = c\n        if riemannian:",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "artanh",
+        "kind": 2,
+        "importPath": "exercises.hw11.manifolds.math_utils",
+        "description": "exercises.hw11.manifolds.math_utils",
+        "peekOfCode": "def artanh(x):\n    return Artanh.apply(x)\n#### RiemannianGradient optimization\nclass RiemannianGradient(torch.autograd.Function):\n    '''\n        self.riemannian = pmath.RiemannianGradient\n        self.riemannian.c = c\n        if riemannian:\n            self.grad_fix = lambda x: self.riemannian.apply(x)\n        else:",
+        "detail": "exercises.hw11.manifolds.math_utils",
+        "documentation": {}
+    },
+    {
+        "label": "PoincareBall",
+        "kind": 6,
+        "importPath": "exercises.hw11.manifolds.poincare",
+        "description": "exercises.hw11.manifolds.poincare",
+        "peekOfCode": "class PoincareBall(Manifold):\n    \"\"\"\n    PoicareBall Manifold class.\n    We use the following convention: x0^2 + x1^2 + ... + xd^2 < 1 / c\n    Note that 1/sqrt(c) is the Poincare ball radius.\n    \"\"\"\n    def __init__(self, ):\n        super(PoincareBall, self).__init__()\n        self.name = 'PoincareBall'\n        self.min_norm = 1e-15",
+        "detail": "exercises.hw11.manifolds.poincare",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "kind": 6,
+        "importPath": "exercises.hw11.dv_train",
+        "description": "exercises.hw11.dv_train",
+        "peekOfCode": "class Generator(nn.Module):\n    def __init__(self, dims):\n        super().__init__()\n        def block(in_feat, out_feat):\n            layers = [nn.Linear(in_feat, out_feat)]\n            layers.append(nn.BatchNorm1d(out_feat))\n            layers.append(nn.LeakyReLU(0.1))\n            return layers\n        self.model = nn.Sequential(\n            *block(int(np.array(dims)), 500),",
+        "detail": "exercises.hw11.dv_train",
+        "documentation": {}
+    },
+    {
+        "label": "Classifier",
+        "kind": 6,
+        "importPath": "exercises.hw11.dv_train",
+        "description": "exercises.hw11.dv_train",
+        "peekOfCode": "class Classifier(nn.Module):\n    def __init__(self, num_latent_dim):\n        super().__init__()\n        def block(in_feat, out_feat):\n            layers = [nn.Linear(in_feat, out_feat)]\n            layers.append(nn.BatchNorm1d(out_feat))\n            layers.append(nn.LeakyReLU(0.1))\n            return layers\n        self.model = nn.Sequential(\n            *block(100, 300),",
+        "detail": "exercises.hw11.dv_train",
+        "documentation": {}
+    },
+    {
+        "label": "DV_Model",
+        "kind": 6,
+        "importPath": "exercises.hw11.dv_train",
+        "description": "exercises.hw11.dv_train",
+        "peekOfCode": "class DV_Model(LightningModule):\n    def __init__(\n        self,\n        **kwargs,\n        ):\n        super().__init__()\n        self.save_hyperparameters()\n        # Set our init args as class attributes\n        self.learning_rate = self.hparams.learning_rate\n        self.batch_size = self.hparams.batch_size",
+        "detail": "exercises.hw11.dv_train",
+        "documentation": {}
+    },
+    {
+        "label": "dvnet_train",
+        "kind": 2,
+        "importPath": "exercises.hw11.dv_train",
+        "description": "exercises.hw11.dv_train",
+        "peekOfCode": "def dvnet_train(mod: dict) -> dict:\n    config = {\n        \"data_name\": \"SingleCell\",\n        \"v_input\": 100,\n        # \"nu\": 5e-3,\n        \"ve\": -1,\n        \"NetworkStructure\": [-1, 500, 300, 100, 2],\n        # \"num_latent_dim\": 2,\n        \"pow_latent\": 2,\n        \"K\": 5,",
+        "detail": "exercises.hw11.dv_train",
+        "documentation": {}
+    },
+    {
+        "label": "Nushadular",
+        "kind": 6,
+        "importPath": "exercises.hw11.nuscheduler",
+        "description": "exercises.hw11.nuscheduler",
+        "peekOfCode": "class Nushadular():\n    def __init__(\n        self,\n        nu_start=0.001,\n        nu_end=100,\n        epoch_start=300,\n        epoch_end=750,\n        ) -> None:\n        super().__init__()\n        if nu_end < 0:",
+        "detail": "exercises.hw11.nuscheduler",
+        "documentation": {}
+    }
+]
